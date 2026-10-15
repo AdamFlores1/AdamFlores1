@@ -6,10 +6,11 @@ I build practical software tools, browser extensions, and games, with an emphasi
 
 ## Featured projects
 
-### [Bookmark Sorter](https://adamflores1.github.io/bookmark-sorter-site/)
+### [Bookmark Sorter](https://chromewebstore.google.com/detail/bookmark-sorter/kohginbaabfelhejdgihbfbagfllankb?authuser=0&hl=en)
 
 A Chrome extension for organizing bookmarks with user-defined rules, preview-before-apply sorting, stale-state protection, backup/export, and supported Undo/recovery behavior.
 
+- [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/bookmark-sorter/kohginbaabfelhejdgihbfbagfllankb?authuser=0&hl=en)
 - [Project site](https://adamflores1.github.io/bookmark-sorter-site/)
 - [Public website repository](https://github.com/AdamFlores1/bookmark-sorter-site)
 

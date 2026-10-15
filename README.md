@@ -19,13 +19,23 @@ A local Python/Flask utility for reviewing large mixed-media folders in randomiz
 
 - [Repository](https://github.com/AdamFlores1/Random-File-Viewer)
 
-## Current project
+### [Leyborn](https://the-adam-flores.itch.io/leyborn)
 
-### Leyborn
+A Godot top-down action RPG in active development, with manual combat, companion hatching, and branching progression.
 
-A Godot action-game project in active development, focused on combat and companion systems. The repository is currently private while development continues.
+- [Play/download the pre-alpha prototype on itch.io](https://the-adam-flores.itch.io/leyborn)
+- GitHub repository currently private while development continues
 
 ## Other public work
+
+### [Chaos Familiar](https://github.com/AdamFlores1/ChaosFamiliar-Public)
+
+A browser-based character collection and gacha simulator built as a hobby project for creative writing and worldbuilding. The public version demonstrates weighted random selection, pity systems, persistent browser state, collection/team systems, filtering, and UI behavior.
+
+- [Public repository](https://github.com/AdamFlores1/ChaosFamiliar-Public)
+- [Hosted version](https://chaos-familiar.onrender.com)
+
+### Build automation
 
 - [Aseprite Native Windows Builder](https://github.com/AdamFlores1/aseprite-windows-native-build) — Windows build automation with pinned release assets, checksum verification, and explicit dependency validation.
 - [Hardened Aseprite Windows Docker Build](https://github.com/AdamFlores1/aseprite-windows-docker-build) — a hardened fork that updates and pins the Aseprite, Skia, and build environment while adding additional validation and failure handling.

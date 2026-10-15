@@ -1,16 +1,57 @@
-## Hi there 👋
+# Adam Flores
 
-<!--
-**AdamFlores1/AdamFlores1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development student based in Thessaloniki, Greece.
 
-Here are some ideas to get you started:
+I build practical software tools, browser extensions, and games, with an emphasis on testing, safe state changes, and maintainable behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+### [Bookmark Sorter](https://adamflores1.github.io/bookmark-sorter-site/)
+
+A Chrome extension for organizing bookmarks with user-defined rules, preview-before-apply sorting, stale-state protection, backup/export, and supported Undo/recovery behavior.
+
+- [Project site](https://adamflores1.github.io/bookmark-sorter-site/)
+- [Public website repository](https://github.com/AdamFlores1/bookmark-sorter-site)
+
+### [Random File Viewer](https://github.com/AdamFlores1/Random-File-Viewer)
+
+A local Python/Flask utility for reviewing large mixed-media folders in randomized order, with conservative filesystem handling, deletion safeguards, persistent progress, recovery behavior, and automated CI tests.
+
+- [Repository](https://github.com/AdamFlores1/Random-File-Viewer)
+
+### [Leyborn](https://the-adam-flores.itch.io/leyborn)
+
+A Godot top-down action RPG in active development, with manual combat, companion hatching, and branching progression.
+
+- [Play/download the pre-alpha prototype on itch.io](https://the-adam-flores.itch.io/leyborn)
+- GitHub repository currently private while development continues
+
+## Other public work
+
+### [Chaos Familiar](https://github.com/AdamFlores1/ChaosFamiliar-Public)
+
+A browser-based character collection and gacha simulator built as a hobby project for creative writing and worldbuilding. The public version demonstrates weighted random selection, pity systems, persistent browser state, collection/team systems, filtering, and UI behavior.
+
+- [Public repository](https://github.com/AdamFlores1/ChaosFamiliar-Public)
+- [Hosted version](https://chaos-familiar.onrender.com)
+
+### Build automation
+
+- [Aseprite Native Windows Builder](https://github.com/AdamFlores1/aseprite-windows-native-build) — Windows build automation with pinned release assets, checksum verification, and explicit dependency validation.
+- [Hardened Aseprite Windows Docker Build](https://github.com/AdamFlores1/aseprite-windows-docker-build) — a hardened fork that updates and pins the Aseprite, Skia, and build environment while adding additional validation and failure handling.
+
+## Technologies
+
+Currently working with:
+
+Python · JavaScript · HTML/CSS · GDScript · Godot · Flask · SQLite · Git/GitHub · Chrome Extensions (Manifest V3) · FFmpeg
+
+## Education
+
+**Thematic SAEK of Thessaloniki**  
+*Τεχνικός Εφαρμογών Πληροφορικής (Πολυμέσα / Web Designer-Developer / Video Games)*  
+October 2025 – Present
+
+## Contact
+
+**Email:** [adamjohnflores@gmail.com](mailto:adamjohnflores@gmail.com)

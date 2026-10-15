@@ -2,7 +2,7 @@
 
 Software development student based in Thessaloniki, Greece.
 
-I build practical software tools, browser extensions, and games. I care about reliable behavior, safe handling of destructive operations, testing, and making projects understandable enough to maintain.
+I build practical software tools, browser extensions, and games, with an emphasis on testing, safe state changes, and maintainable behavior.
 
 ## Featured projects
 
@@ -15,9 +15,11 @@ A Chrome extension for organizing bookmarks with user-defined rules, preview-bef
 
 ### [Random File Viewer](https://github.com/AdamFlores1/Random-File-Viewer)
 
-A local Python/Flask utility for reviewing large mixed-media folders in randomized order. It is designed around conservative filesystem behavior, including path and symlink checks, explicit deletion safeguards, persistent progress, recovery handling, and automated CI tests.
+A local Python/Flask utility for reviewing large mixed-media folders in randomized order, with conservative filesystem handling, deletion safeguards, persistent progress, recovery behavior, and automated CI tests.
 
 - [Repository](https://github.com/AdamFlores1/Random-File-Viewer)
+
+## Current project
 
 ### Leyborn
 
@@ -25,22 +27,20 @@ A Godot action-game project in active development, focused on combat and compani
 
 ## Other public work
 
-- [Aseprite Native Windows Builder](https://github.com/AdamFlores1/aseprite-windows-native-build) — Windows build automation with pinned release assets, checksum verification, and reproducible dependency selection.
-- [Hardened Aseprite Windows Docker Build](https://github.com/AdamFlores1/aseprite-windows-docker-build) — a hardened fork that updates and pins the Aseprite/Skia/build environment and adds additional validation and failure handling.
+- [Aseprite Native Windows Builder](https://github.com/AdamFlores1/aseprite-windows-native-build) — Windows build automation with pinned release assets, checksum verification, and explicit dependency validation.
+- [Hardened Aseprite Windows Docker Build](https://github.com/AdamFlores1/aseprite-windows-docker-build) — a hardened fork that updates and pins the Aseprite, Skia, and build environment while adding additional validation and failure handling.
 
 ## Technologies
+
+Currently working with:
 
 Python · JavaScript · HTML/CSS · GDScript · Godot · Flask · SQLite · Git/GitHub · Chrome Extensions (Manifest V3) · FFmpeg
 
 ## Education
 
 **Thematic SAEK of Thessaloniki**  
-Information Technology Applications — Multimedia, Web Development & Video Games  
+*Τεχνικός Εφαρμογών Πληροφορικής (Πολυμέσα / Web Designer-Developer / Video Games)*  
 October 2025 – Present
-
-## Development approach
-
-I use AI-assisted development as part of a review-and-validation workflow: defining requirements and constraints, reviewing implementation changes, testing behavior, investigating failures, and iterating on the result. Individual repositories document the process in more detail where relevant.
 
 ## Contact
 
